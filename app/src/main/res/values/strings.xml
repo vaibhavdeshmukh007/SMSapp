@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SMSapp</string>
+    <string name="inbox">Inbox</string>
+    <string name="search">Search</string>
+    <string name="new_message">New message</string>
+    <string name="to_hint">To</string>
+    <string name="type_new_message">Type new message</string>
+    <string name="send">Send</string>
+    <string name="from">From</string>
+    <string name="count">Count</string>
+    <string name="message">Message</string>
+</resources>
